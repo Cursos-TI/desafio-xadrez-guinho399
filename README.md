@@ -10,3 +10,4 @@ for i in range(5):
 # Movimentos da Rainha
 for i in range(8):
     print("Esquerda")
+autor: hugo lamenha
